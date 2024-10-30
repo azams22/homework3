@@ -1,6 +1,8 @@
-Homework 3: This project shows how we can connect PostgreSQL with flask to update a table, basket_a, and show unique values between two tables, basket_a and basket_b
+# Homework 3: 
+This project shows how we can connect PostgreSQL with flask to update a table, basket_a, and show unique values between two tables, basket_a and basket_b
 
-Team Members: Sofia Azam
+## Team Members: 
+Sofia Azam
 
 ## Quick Start
 ### Local Test Setup
