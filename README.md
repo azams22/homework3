@@ -31,3 +31,15 @@ Then you can start the server with:
 ```
 python3 main.py
 ```
+
+Once you have that running, go to the following link in your web browser to update basket_a with a row that has the values (5, 'Cherry')
+```
+http://127.0.0.1:5000/api/update_basket_a 
+```
+It will give you an error if you try to run that link in your web browser again since it's already been added to the table.
+
+You can also go to this following link in your web browser to show all the unique values in basket_a and basket_b
+```
+http://127.0.0.1:5000/api/unique
+```
+
